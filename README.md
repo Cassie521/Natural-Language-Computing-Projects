@@ -5,7 +5,7 @@ Considering some projects are course projects and the restriction of sharing tho
 
 
 ##  Identify political persuasion on Reddit (Sentiment Analysis) 
-In the 'Identify political persuasion on Reddit' project, I applied NLP techniques and conducted machine learning modeling to classify each Reddit post in the specific politcal party that it is affiliated. 
+In the 'Identify political persuasion on Reddit' project, I applied NLP techniques and conducted machine learning modeling to classify each Reddit post in the specific politcal party that it is affiliated. //
 
 In the project, more specifically, I applied pre-processing, tokenizing, POS tagging and lemmatization on the corpus of 1.81 millions Reddit posts. Then I extract 173 features that is relevant to any politcal bias detection and conduct the feature analysis to select only 5 best features. Finally I trained, cross validated and tested 5 classifiers (SGD classifier, GuassianNB, RandomForestClassifier, MLPClassifier, AdaboostClassifier) on the data in order to predict the political persuasion of the specific Reddit post (E.g. Classify Reddit post into their support political party), achieved accuracy of 83.2%. 
 
