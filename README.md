@@ -14,5 +14,5 @@ In the project, more specifically, I applied pre-processing, tokenizing, POS tag
 In the ‘neural machine translation project, I implemented Seq2Seq (encoder – decoder) model without attention, with single-headed attention and with multi-headed attention on 1.4 million paired French and English sentences, trained the model with teacher-forcing, decode using beam search and achieved the bleu score of 0.57. 
 I also tested the optimal Seq2Seq model and translated multiple sentences from French to English, achieving high adequacy and completeness of translation quality. 
 
-![image](https://user-images.githubusercontent.com/94753240/224211209-28782720-f5c6-4cb4-ae42-5dc67e1be19a.png)
+
 
